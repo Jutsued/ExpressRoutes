@@ -1,0 +1,22 @@
+{
+  "name": "expressroutes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jutsued/ExpressRoutes.git"
+  },
+  "author": "Pablo A Bonilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jutsued/ExpressRoutes/issues"
+  },
+  "homepage": "https://github.com/Jutsued/ExpressRoutes#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
